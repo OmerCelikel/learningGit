@@ -1,1 +1,16 @@
 # her satırına takip edilmesini istemediğimiz dosyaları veya dizinleri yazarak göz ardı edebiliriz.
+
+#img dosyaları
+*.jpg 
+
+#png dosyaları
+*.png
+
+#spesifik dosya
+logo.jpg
+
+#img dosyası
+img/
+
+# password localde kalsın
+password.txt
