@@ -14,3 +14,6 @@ img/
 
 # password localde kalsın
 password.txt
+
+# pushlamadan önce pull etmek için
+#git pull origin main --rebase
